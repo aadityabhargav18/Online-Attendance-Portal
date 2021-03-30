@@ -108,7 +108,7 @@
     <footer style="position: fixed; bottom: 0px; background-color: #000000; left: 0px; right: 0px; margin-bottom: 0px;">
   <div class="container">
       <div class="footer-copyright text-center text-white">
-        ©️ 2020 developed by Aaditya Bhargav, Arpit Verma, Kush Jindal under guidance of Mr. Anand Kr Srivastava
+      Copyright ©️ 2020 developed by Aaditya Bhargav
       </div>
   </div>
 </footer>
